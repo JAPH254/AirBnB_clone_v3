@@ -154,9 +154,9 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
-Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
-Dennis Otwoma - [Github](https://github.com/codeme254) / [Twitter](https://twitter.com/Zaphenath254)
+JAPHETH ONYUKA - [Github](https://github.com/JAPH254/AirBnB_clone_v3)
+Oumaima LIMOUNI  
+
 
 ## License
 Public Domain. No copy write protection. 
